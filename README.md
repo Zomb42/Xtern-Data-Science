@@ -1,1 +1,1 @@
-Derick Shi's 
+Derick Shi's Work Sample Assessment for the data science xtern application 
